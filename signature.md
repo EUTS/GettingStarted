@@ -1,5 +1,5 @@
 - Haneen Mohammed
-- Yumna Aziz Ansari
+- Yumna Aziz Ansari - Senior CS student
 - Esraa Alzwawi iam a CS student 
 - Fatin Almakallawi
 - insharah ansari

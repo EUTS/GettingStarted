@@ -1,3 +1,4 @@
 - Haneen Mohammed
 - Yumna Aziz Ansari
-- Esraa Alzwawi- Sophmore CS student 
+- Esraa Alzwawi iam a CS student 
+- Fatin Almakallawi

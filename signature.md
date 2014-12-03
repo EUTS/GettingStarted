@@ -1,2 +1,3 @@
 - Haneen Mohammed
-- Yumna Aziz Ansari
+- Yumna Aziz Ansari - Senior CS student
+-

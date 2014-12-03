@@ -1,5 +1,5 @@
 - Haneen Mohammed
 - Yumna Aziz Ansari
-- Esraa Alzwawi iam a CS student 
+- Esraa Alzwawi
 
 - Sara Aljehani CS student 

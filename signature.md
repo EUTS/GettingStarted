@@ -6,4 +6,4 @@
 - Mariam Daffa
 - Maya Akbar
 - Sara Aljehani CS student 
-
+- Lujain Khafaji a cs sophomore 

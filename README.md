@@ -40,5 +40,5 @@ git push
 ```
 - Send Pull request [How to send pull requests](http://www.youtube.com/watch?v=FQsBmnZvBdc) 
 
-Using git on a Mac? Download [GitHub for Mac](https://mac.github.com) - it'll make your life ten times easier! 
+Using git on a Mac? Download [GitHub for Mac](https://mac.github.com) - it'll make your life ten times easier! <br>
 Using git on a PC? Download [Github for Windows](https://windows.github.com) - it'll make your life ten times easier!
